@@ -1,2 +1,1 @@
-# angular-checkbox-search
-
+# Sample npm bower grunt set up 
