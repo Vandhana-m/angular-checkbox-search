@@ -1,0 +1,49 @@
+{
+  "name": "sample-npm-grunt-bower",
+  "version": "0.0.1",
+  "description": "An example to check npm grunt and bower",
+  "author": "Vandhana",
+  "contributors": [
+    "Arun <arun@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vandhana-m/angular-checkbox-search.git"
+  },
+  "bin": {
+    "module-name": "./bin/module-name"
+  },
+  "keywords": [
+    "samplenpm",
+    "samplegrunt",
+    "samplebower"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^1.0.0",
+    "grunt-jsdoc": "^2.1.0",
+    "grunt-karma": "^2.0.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.7"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "bugs": {
+    "url": "https://github.com/Vandhana-m/angular-checkbox-search/issues"
+  },
+  "homepage": "https://github.com/Vandhana-m/angular-checkbox-search#readme",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "license": "MIT"
+}

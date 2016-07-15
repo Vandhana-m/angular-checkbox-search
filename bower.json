@@ -1,0 +1,31 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "angular-mocks": "^1.5.7",
+    "jquery": "^3.0.0",
+    "underscore": "^1.8.3",
+    "restangular": "^1.5.2"
+  },
+  "analytics": false,
+  "homepage": "https://github.com/Vandhana-m/angular-checkbox-search",
+  "authors": [
+    "vandhana-m <vandhana.mathan@yahoo.co.in>"
+  ],
+  "description": "sample to test",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "bower"
+  ]
+}

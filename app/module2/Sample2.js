@@ -1,0 +1,3 @@
+function Bye(){
+	return "Bye";
+}
